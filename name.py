@@ -1,0 +1,1 @@
+name=print("My name is satish")
